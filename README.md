@@ -1,11 +1,10 @@
-<h1 align="center">I'm Márk Lazanyecz</h1>
+<h1 align="center">Márk Lazanyecz</h1>
 <h3 align="center">21 years old from Szeged, Hungary.</h3>
 
 - 🌱 I’m currently learning **at the University of Szeged.**
 
-- 📫 How to reach me **mark.lazanyecz04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 You can reach me at **mark.lazanyecz04@gmail.com**
+- 
 <p align="left">
 </p>
 
