@@ -22,4 +22,4 @@
 - MySQL
 - SQLite
 
-#### <a href="https://docs.google.com/document/d/1pG90pcqNac-P9UgMs1db0n3STIXVpxz-/edit?usp=drive_link&ouid=115829901100521517506&rtpof=true&sd=true" target="blank" download>Download my resume</a>
+#### <a href="" target="blank" download>Download my resume</a>
