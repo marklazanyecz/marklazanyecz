@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **at the University of Szeged.**
 
 - 📫 You can reach me at **mark.lazanyecz04@gmail.com**
-- 
+
 <p align="left">
 </p>
 
