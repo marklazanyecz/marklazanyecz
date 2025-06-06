@@ -1,4 +1,5 @@
-<h1 style="display: inline;">Lazanyecz Márk</h1><span>  *21, Szeged*</span>
+# Lazanyecz Márk
+*21, Szeged*
 ***
 > ### 2024 óta Programtervező informatikus hallgató vagyok a Szegedi Tudományegyetemen
 > #### Már megszerzett képesítéseim
