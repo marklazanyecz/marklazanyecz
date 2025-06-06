@@ -1,10 +1,14 @@
-# Lazanyecz Márk
-*21, Szeged*
+<h1 align="center">Lazanyecz Márk</h1>
+
+<p align="center">
+  *21, Szeged*
+</p>
+
 ***
 > ### 2024 óta Programtervező informatikus hallgató vagyok a Szegedi Tudományegyetemen
 > #### Már megszerzett képesítéseim
-> - Szoftverfejlesztő és -tesztelő
-> - Irodai informatikus
+> - Szoftverfejlesztő és -tesztelő <
+> - Irodai informatikus <
 ***
 > ### Jelenlegi foglalkozások
 > - Óraadó Orosházán a Gyulai SZC Kossuth Lajos Technikumban *(Python programozás 10-es diákoknak)*
