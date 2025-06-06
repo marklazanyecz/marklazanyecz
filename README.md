@@ -20,8 +20,8 @@
 ***
 > ### Egyéb
 > #### Nyelvismeret
-> - Magyar *anyanyelv*, Angol *B2*
-> - Jogosítvány *B kategória*
+> - Magyar *(anyanyelv)*, Angol *(B2)*
+> - Jogosítvány *(B kategória)*
 ***
 **Elérhetőség**: mark.lazanyecz04@gmail.com 
 ### [Önéletrajzom](https://duckduckgo.com)
