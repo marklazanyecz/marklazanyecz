@@ -1,25 +1,18 @@
-# Márk Lazanyecz
-### 21 years old, lives in Szeged, Hungary
+# Lazanyecz Márk  *21, Szeged*
 
-### Studying to be a Software Engineer at the University of Szeged from 2024.
-#### I am already a
-- Software Developer
-- Office IT Specialist
+> ### 2024 óta Programtervező informatikus hallgató vagyok a Szegedi Tudományegyetemen
+> #### Már megszerzett képesítéseim
+> - Szoftverfejlesztő és -tesztelő
+> - Irodai informatikus
+***
+> ### Jelenlegi foglalkozások
+> - Óraadó Orosházán a Gyulai SZC Kossuth Lajos Technikumban *(Python programozás 10-es diákoknak)*
+> - Labdarúgó játékvezető *(Békés vármegye, hétvégente)*
+***
+## Jelenleg ismert technológiák
+#### Programozási nyelvek    Weboldal fejlesztés    Adatbázisok
+- Python                     - HTML                 - MySQL
+- Java                       - CSS                  - SQLite
+- Javascript                 - Bootstap
 
-### Teaching python programming at GySZC Kossuth Lajos Technikum
-
-## My skills
-#### For programming
-- Python
-- Java
-- Javascript
-#### For web development
-- HTML
-- CSS
-- Bootstrap
-- Flask
-#### For databases
-- MySQL
-- SQLite
-
-#### <a href="" target="blank" download>Download my resume</a>
+#### <a href="" target="blank" download>Önéletrajzom</a>
