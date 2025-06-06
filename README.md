@@ -1,4 +1,4 @@
-**Lazanyecz Márk** *21, Szeged*
+<h1 style="display: inline;">Lazanyecz Márk</h1><span>  *21, Szeged*</span>
 ***
 > ### 2024 óta Programtervező informatikus hallgató vagyok a Szegedi Tudományegyetemen
 > #### Már megszerzett képesítéseim
@@ -22,5 +22,6 @@
 > - Magyar *anyanyelv*, Angol *B2*
 > - Jogosítvány *B kategória*
 ***
-**Elérhetőség** mark.lazanyecz04@gmail.com 
+**Elérhetőség**: mark.lazanyecz04@gmail.com 
 ### [Önéletrajzom](https://duckduckgo.com)
+***
