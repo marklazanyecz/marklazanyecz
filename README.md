@@ -12,6 +12,7 @@
 ***
 ### Jelenleg ismert technológiák
 | Programozási nyelvek | Weboldal fejlesztés | Adatbázisok |
+| :----: | :----: | :----: |
 | Python | HTML | MySQL |
 | Java | CSS | SQLite |
 | Javascript | Bootstap | |
