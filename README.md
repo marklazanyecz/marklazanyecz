@@ -19,7 +19,7 @@
 | :----: | :----: | :----: |
 | Python | HTML | MySQL |
 | Java | CSS | SQLite |
-| Javascript | Bootstap | |
+| Javascript | Bootstrap | |
 | | Flask | |
 ***
 > ### Egyéb
