@@ -28,5 +28,5 @@
 > - Jogosítvány *(B kategória)*
 ***
 **Elérhetőség**: mark.lazanyecz04@gmail.com 
-### [Önéletrajzom](https://duckduckgo.com)
+### [Önéletrajzom](https://drive.google.com/file/d/16xGEBMj6EEJLtuk1Jy6SJN2Y3kMdqmHc/view?usp=drive_link)
 ***
