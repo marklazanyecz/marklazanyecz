@@ -26,7 +26,7 @@
 > #### Nyelvismeret
 > - Magyar *(anyanyelv)*,
 > - Angol *(B2)*
-> Jogosítvány *(B kategória)*
+> #### Jogosítvány *(B kategória)*
 ***
 > ### Elérhetőség: 
 > - mark.lazanyecz04@gmail.com
