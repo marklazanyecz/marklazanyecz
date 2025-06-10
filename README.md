@@ -5,8 +5,8 @@
 </p>
 
 ***
-> ### 2024 óta Programtervező informatikus hallgató vagyok a Szegedi Tudományegyetemen
-> #### Már megszerzett képesítéseim
+> ### 2024 óta Programtervező informatikus hallgató a Szegedi Tudományegyetemen
+> #### Már megszerzett képesítések
 > - Szoftverfejlesztő és -tesztelő
 > - Irodai informatikus
 ***
@@ -32,4 +32,4 @@
 > - mark.lazanyecz04@gmail.com
 > - +36 / 70 882 6787
 ***
-### [Önéletrajzom](https://drive.google.com/file/d/1ImsHUYczhPyPkMrGO8pa9LxNfR2oZLGs/view?usp=drive_link)
+### [Önéletrajz](https://drive.google.com/file/d/1ImsHUYczhPyPkMrGO8pa9LxNfR2oZLGs/view?usp=drive_link)
