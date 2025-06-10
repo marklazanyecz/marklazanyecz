@@ -27,7 +27,7 @@
 > - Magyar *(anyanyelv)*, Angol *(B2)*
 > - Jogosítvány *(B kategória)*
 ***
-> ###Elérhetőség: 
+> ### Elérhetőség: 
 > - mark.lazanyecz04@gmail.com
 > - +36 / 70 882 6787 
 > **[Önéletrajzom](https://drive.google.com/file/d/1ImsHUYczhPyPkMrGO8pa9LxNfR2oZLGs/view?usp=drive_link)**
