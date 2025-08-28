@@ -32,4 +32,4 @@
 > - mark.lazanyecz04@gmail.com
 > - +36 / 70 882 6787
 ***
-### [Önéletrajz](https://drive.google.com/file/d/1ImsHUYczhPyPkMrGO8pa9LxNfR2oZLGs/view?usp=drive_link)
+### [Önéletrajz](https://drive.google.com/drive/folders/1pFjrz1wuXb4uTMpz5K9MrYnHLiwI_eQ0?usp=sharing)
