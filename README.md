@@ -11,7 +11,7 @@
 > - Irodai informatikus
 ***
 > ### Jelenlegi foglalkozások
-> - Óraadó a Hódmezővásárhelyi SZC Eötvös József Technikumban *(Felnőttképzés, rendszerüzemeltető informatikus, szoftverfejlesztő és -tesztelő)*
+> - Óraadó a Hódmezővásárhelyi SZC Eötvös József Technikumban *(rendszerüzemeltető informatikus, szoftverfejlesztő és -tesztelő)*
 > - Labdarúgó játékvezető *(Békés vármegye, hétvégente)*
 ***
 ### Jelenleg ismert technológiák
