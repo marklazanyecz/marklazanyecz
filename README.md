@@ -11,7 +11,7 @@
 > - Irodai informatikus
 ***
 > ### Jelenlegi foglalkozások
-> - Óraadó Orosházán a Gyulai SZC Kossuth Lajos Technikumban *(Python programozás 10-es diákoknak)*
+> - Óraadó a Hódmezővásárhelyi SZC Eötvös József Technikumban *(Felnőttképzés, rendszerüzemeltető informatikus, szoftverfejlesztő és -tesztelő)*
 > - Labdarúgó játékvezető *(Békés vármegye, hétvégente)*
 ***
 ### Jelenleg ismert technológiák
