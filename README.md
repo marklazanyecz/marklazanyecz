@@ -12,15 +12,17 @@
 ***
 > ### Jelenlegi foglalkozások
 > - Óraadó a Hódmezővásárhelyi SZC Eötvös József Technikumban *(rendszerüzemeltető informatikus, szoftverfejlesztő és -tesztelő)*
-> - Labdarúgó játékvezető *(Békés vármegye, hétvégente)*
+> - Óraadó A Gyulai SZC Kossuth Lajos Technikum, Szakképző Iskola és Kollégiumban *(szoftverfejlesztő és -tesztelő, 10- és 13-os évfolyamok)*
+> - Labdarúgó játékvezető *(Békés vármegye)*
 ***
 ### Jelenleg ismert technológiák
 | Programozási nyelvek | Weboldal fejlesztés | Adatbázisok |
 | :----: | :----: | :----: |
 | Python | HTML | MySQL |
 | Java | CSS | SQLite |
-| Javascript | Bootstrap | |
-| | Flask | |
+| JavaScript | Bootstrap | |
+| TypeScript | Flask | |
+| C++ | | |
 ***
 > ### Egyéb
 > #### Nyelvismeret
