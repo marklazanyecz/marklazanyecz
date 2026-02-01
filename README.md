@@ -12,7 +12,7 @@
 ***
 > ### Jelenlegi foglalkozások
 > - Óraadó a Hódmezővásárhelyi SZC Eötvös József Technikumban *(rendszerüzemeltető informatikus, szoftverfejlesztő és -tesztelő)*
-> - Óraadó A Gyulai SZC Kossuth Lajos Technikum, Szakképző Iskola és Kollégiumban *(szoftverfejlesztő és -tesztelő, 10- és 13-os évfolyamok)*
+> - Óraadó a Gyulai SZC Kossuth Lajos Technikum, Szakképző Iskola és Kollégiumban *(szoftverfejlesztő és -tesztelő, 10- és 13-os évfolyamok)*
 > - Labdarúgó játékvezető *(Békés vármegye)*
 ***
 ### Jelenleg ismert technológiák
